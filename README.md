@@ -66,17 +66,17 @@ git add css/styles-gallery.css
 # commit การเพิ่ม Media Queries สำหรับแกลเลอรี่
 git commit -m "เพิ่ม Media Queries สำหรับ Responsive Gallery"
 
-# สร้างไฟล์ script.js และเพิ่มโค้ด JavaScript สำหรับการกรองรูปภาพ
+สร้างไฟล์ script.js และเพิ่มโค้ด JavaScript สำหรับการกรองรูปภาพ
 
-# เพิ่มไฟล์เข้า staging area
+เพิ่มไฟล์เข้า staging area
 git add .
 
-# commit การเพิ่ม JavaScript สำหรับการกรองรูปภาพ
+commit การเพิ่ม JavaScript สำหรับการกรองรูปภาพ
 git commit -m "เพิ่ม Filter Animations ด้วย JavaScript"
 
-# อัพเดท README.md และ commit
+อัพเดท README.md และ commit
 git add .
 git commit -m "อัพเดท README.md พร้อมคำสั่ง Git ทั้งหมด"
 
-# push ไปยัง GitHub
+push ไปยัง GitHub
 git push
